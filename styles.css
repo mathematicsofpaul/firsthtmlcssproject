@@ -1,0 +1,41 @@
+h1, form { 
+    color: rgb(43, 64, 226);
+    text-align: center;
+}
+
+input {
+    margin: auto; /* Centers the form in its container */
+    width: 50%; /* Sets a specific width for the form */ 
+    font-size: 10px;
+}
+
+div { 
+    border: 2px solid salmon; 
+    background-color: rgb(173, 230, 196); 
+    padding: 50px; 
+    margin: 40px
+}
+
+body {
+    background-color: lightblue; 
+    font-family: 'Arial', sans-serif; 
+  }
+
+.foo { 
+    font-weight: bold;
+} 
+
+ul > li { 
+    font-weight: bold
+} 
+
+button { 
+    width: 200px; 
+    height: 50px; 
+    font-size: 24px; 
+    background-color: greenyellow
+}
+
+button:hover { 
+    background-color: orangered
+}
